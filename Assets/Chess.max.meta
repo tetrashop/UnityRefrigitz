@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 246deae894570ff448a8d234956a0d22
-timeCreated: 1587122215
+guid: 2e3f58d87b319a8418a686ac3144f4d4
+timeCreated: 1587162903
 licenseType: Pro
 ModelImporter:
   serializedVersion: 19
@@ -39,6 +39,8 @@ ModelImporter:
     100062: Sodier013
     100064: Sodier014
     100066: Sodier015
+    100068: Bridge002
+    100070: Bridge003
     400000: Box002
     400002: Bridge
     400004: Bridge001
@@ -73,6 +75,8 @@ ModelImporter:
     400062: Sodier013
     400064: Sodier014
     400066: Sodier015
+    400068: Bridge002
+    400070: Bridge003
     2300000: Box002
     2300002: Bridge
     2300004: Bridge001
@@ -106,6 +110,8 @@ ModelImporter:
     2300060: Sodier013
     2300062: Sodier014
     2300064: Sodier015
+    2300066: Bridge002
+    2300068: Bridge003
     3300000: Box002
     3300002: Bridge
     3300004: Bridge001
@@ -139,6 +145,8 @@ ModelImporter:
     3300060: Sodier013
     3300062: Sodier014
     3300064: Sodier015
+    3300066: Bridge002
+    3300068: Bridge003
     4300000: Sodier
     4300002: Elefsnt
     4300004: Minster
@@ -172,6 +180,8 @@ ModelImporter:
     4300060: Elefsnt002
     4300062: King003
     4300064: Elefsnt003
+    4300066: Bridge002
+    4300068: Bridge003
     9500000: //RootNode
   materials:
     importMaterials: 1
