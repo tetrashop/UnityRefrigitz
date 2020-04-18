@@ -24,6 +24,8 @@ public class ManagerBoard : MonoBehaviour {
 			// Grab a reference to its transform for use later (saves on managed
 			// code to native code calls).
 			_playerTransform = player.transform;
+			player.GetComponent<Light>().enabled = true;
+
 		}
 		// Grab a reference to our transform for use later.
 		_myTransform = this.transform;
