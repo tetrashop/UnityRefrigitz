@@ -15792,35 +15792,35 @@ namespace RefrigtzChessPortable
                     Is = Is || ServeBoundryConditionsSoldier(i, Kind, Order);
                 }
 
-                else;
+                else
 
                 if (Kind == 2)
                 {
                     Is = Is || ServeBoundryConditionsElephant(i, Kind, Order);
                 }
 
-                else;
+                else
 
                 if (Kind == 3)
                 {
                     Is = Is || ServeBoundryConditionsHourse(i, Kind, Order);
                 }
 
-                else;
+                else
 
                 if (Kind == 4)
                 {
                     Is = Is || ServeBoundryConditionsCastle(i, Kind, Order);
                 }
 
-                else;
+                else
 
                 if (Kind == 5)
                 {
                     Is = Is || ServeBoundryConditionsMinister(i, Kind, Order);
                 }
 
-                else;
+                else
 
                 if (Kind == 6)
                 {
