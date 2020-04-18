@@ -10,8 +10,6 @@ public class ManagerBoard : MonoBehaviour {
 	private Transform _myTransform;
 	// Use this for initialization
 	void Start () {
-		//t = new RefrigtzChessPortable.RefrigtzChessPortableForm ();
-		//t.Form1_Load ();
 		// Find some gameobject that has the text tag "Player" assigned to it.
 		// This is startup code, shouldn't query the player object every
 		// frame. Store a ref to it.
@@ -29,6 +27,9 @@ public class ManagerBoard : MonoBehaviour {
 		}
 		// Grab a reference to our transform for use later.
 		_myTransform = this.transform;
+		t = new RefrigtzChessPortable.RefrigtzChessPortableForm ();
+		t.Form1_Load ();
+
 	}
 	
 	// Update is called once per frame
